@@ -1,0 +1,16 @@
+{
+    "package": "ai_chat_addon",
+    "name": "AI Chat for Flashcards",
+    "mod": 1234567890,
+    "author": "Your Name",
+    "description": "Chat with AI about your flashcards using OpenAI API. Ask questions, get explanations, and save chat history for each card.",
+    "version": "1.0.0",
+    "ankiweb_id": null,
+    "min_point_version": 45,
+    "max_point_version": null,
+    "branch_index": 0,
+    "homepage": "",
+    "tags": ["ai", "chat", "study", "openai"],
+    "conflicts": [],
+    "update_enabled": true
+} 
